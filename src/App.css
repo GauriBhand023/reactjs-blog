@@ -1,0 +1,9 @@
+body{
+  background: #e9eaed;
+  font-family: 'Oswald', sans-serif;
+}
+
+.App{
+  width: 90%;
+  margin: 0 auto;
+}
