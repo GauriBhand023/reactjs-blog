@@ -14,14 +14,10 @@ function App() {
       <div className="App">
         <Header />
         <Hero />
-
         <Route path="/" exact component={Home} />
         <Route path="/contact-us"  component={ContactUS}/>
         <Route path="/post/:slug" component={Post} />
-
-        {}
-
-        
+        {}        
       </div>
     </Router>
     
